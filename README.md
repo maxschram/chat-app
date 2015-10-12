@@ -1,4 +1,12 @@
 ### Chat App ###
 This is a little chat application using socket.io and React.
 
-Run `npm install` then `npm start` then navigate to `localhost:3000`
+[Live](https://aqueous-mountain-7500.herokuapp.com)
+
+Local setup:
+```
+npm install
+npm start
+```
+`localhost:3000`
+
